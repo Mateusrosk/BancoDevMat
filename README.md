@@ -1,4 +1,4 @@
-# 🏦 Banco DevMat
+# Banco DevMat
 
 Sistema bancário desenvolvido em Java com foco no aprendizado de Programação Orientada a Objetos (POO), validação de dados e manipulação de transações.
 
